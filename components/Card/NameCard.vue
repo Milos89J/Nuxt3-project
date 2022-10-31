@@ -1,6 +1,7 @@
 <template>
   <div class="card">
-     <h3>{{ namesSelected }}</h3>
+     <h3>{{ 6f5cf78b6ce9fc46ea067b6a803100191021337d }}</h3>
+     <h3>{{ 6f5cf78b6ce9fc46ea067b6a803100191021337d }}</h3>
     <p>x</p>
   </div>
 </template>
@@ -9,6 +10,7 @@
 
 interface NameProps {
     name: string;
+
  }  
 
 const props = defineProps<NameProps>();
