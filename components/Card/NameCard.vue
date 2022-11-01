@@ -1,15 +1,13 @@
 <template>
   <div class="card">
-     <h3>{{ namesSelected }}</h3>
+    <h3>{{ namesSelected }}</h3>
     <p>x</p>
   </div>
-</template>
-
+</template>git 
 <scrypt setup lang="ts">
 
 interface NameProps {
     name: string;
-    
  }  
 
 const props = defineProps<NameProps>();
